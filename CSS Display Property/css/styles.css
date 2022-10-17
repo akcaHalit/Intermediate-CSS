@@ -1,0 +1,45 @@
+/*
+p{
+    background-color:red;
+    width:100px;
+    display:inline;
+  }
+
+  span{
+    background-color:blue;
+    display:block;
+    width:100px;    /* nothing will change
+  }
+  */
+/*
+p{
+    background-color:red;
+    width:100px;
+    display:inline-block;
+}
+
+span{
+    background-color:blue;
+     display:block;
+}
+*/
+
+/*  visibility:hidden
+.second-p{
+    visibility: hidden;
+}
+*/
+.second-p{
+    display: none;
+}
+
+p{
+    background-color:red;
+    width:100px;
+    display:inline-block;
+}
+
+span{
+    background-color:blue;
+}
+
