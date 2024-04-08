@@ -1,0 +1,11 @@
+/* Syntax =>  Selectors{ property : value; }  */
+
+
+h1{
+   color : blue;
+}
+
+img{
+   background-color:  red;
+}
+
